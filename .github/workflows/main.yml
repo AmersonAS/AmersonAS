@@ -1,4 +1,4 @@
-guthub_user_name: AmersonAS
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
